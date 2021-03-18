@@ -24,9 +24,14 @@ public class OperadoresAritmeticos {
         System.out.println(número);*/
         
        
-        int x = 4;
+        /*int x = 4;
         x += 2; // x = x + 2
-        System.out.print(x);
+        System.out.print(x);*/
+        
+        
+        float n = 100;
+        float res = (float) Math.sqrt(n);
+        System.out.println(res);
     }     
 
 }    
