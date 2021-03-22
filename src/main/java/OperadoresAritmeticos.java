@@ -29,9 +29,15 @@ public class OperadoresAritmeticos {
         System.out.print(x);*/
         
         
-        float n = 100;
+        /*float n = 100;
         float res = (float) Math.sqrt(n);
-        System.out.println(res);
-    }     
+        System.out.println(res);*/
+        
+     
+        float v = 8.2f;
+        int ar = (int) Math.round(v);
+        System.out.println(ar);
+                
+    }   
 
 }    
